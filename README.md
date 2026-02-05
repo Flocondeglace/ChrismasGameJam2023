@@ -1,2 +1,3 @@
-# GameJamNoel2023
-Jeu réalisé sur Godot pour la GameJam de Noël 2023
+# Christmas Game Jam 2023
+
+Made with Godot
